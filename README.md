@@ -1,9 +1,13 @@
 ### Hi there 👋
-
 <!--
-**Arthur-Vinicius/Arthur-Vinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  Sou Estudante de engenharia da computação, atualmente trabalhando na area de TI(Suporte Tecnico).
+  Atuamente estudando Pyhton, JS, Sql, e C++.
+
+  I am a Computer engenier studante, Working on helpdesk (estagiario)
+  I'm studing some programing linguages: JS, SQL, Python and C++.
+  
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ 
+
+
+
+
+
 -->
