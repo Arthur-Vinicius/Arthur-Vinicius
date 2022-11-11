@@ -51,5 +51,5 @@
   <br>
 </div>
  --> 
-  ![Snake animation](https://github.com/Arthur-Vinicius/Arthur-Vinicius/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Arthur-Vinicius/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
