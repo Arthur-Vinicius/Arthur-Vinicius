@@ -17,9 +17,8 @@
 <a href="https://www.instagram.com/t.arthursouza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/arthur-vinicius-467b991b4/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="</a>
 
-  <!-- <a href="https://ko-fi.com/arthursouza" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ko-fi&color=0A66C2&logo=Ko-fi&logoColor=FFFFFF&label="</a>
+<a href="https://ko-fi.com/arthursouza" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ko-fi&color=0A66C2&logo=Ko-fi&logoColor=FFFFFF&label="</a>
 <a href="Portifolio" target="_blank"><img src="https://img.shields.io/badge/-Portifolio-%23E4405F?style=for-the-badge&logo=portifolio&logoColor=white"</a>
--->
 </div>
 
 ### Main skills:
