@@ -41,6 +41,7 @@
 ![PYTHON](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![DJANGO](https://img.shields.io/badge/-DJANGO-0D1117?style=for-the-badge&logo=django&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![DART](https://img.shields.io/badge/-dart-0D1117?style=for-the-badge&logo=dart&logoColor=blue)&nbsp; 
+![FLUTTER](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=dart&logoColor=blue)&nbsp;
 
  
 <!--![Snake animation](https://github.com/Arthur-Vinicius/Arthur-Vinicius/blob/output/github-contribution-grid-snake.svg) -->
