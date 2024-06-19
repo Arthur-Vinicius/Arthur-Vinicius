@@ -45,12 +45,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codesandbox.com/arthur-vinicius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="arthur-vinicius" height="30" width="40" /></a>
 <a href="https://kaggle.com/arthursvinicius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arthursvinicius" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/arthurvinicius" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arthurvinicius" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arthurvinic1us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arthurvinic1us" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arthur vinicius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arthur vinicius" height="30" width="40" /></a>
-</p>  
-
+</p>  -->
