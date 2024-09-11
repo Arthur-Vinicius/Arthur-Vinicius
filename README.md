@@ -43,8 +43,20 @@
 ![DART](https://img.shields.io/badge/-dart-0D1117?style=for-the-badge&logo=dart&logoColor=blue)&nbsp; 
 ![FLUTTER](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=blue)&nbsp;
 
- 
-<!--![Snake animation](https://github.com/Arthur-Vinicius/Arthur-Vinicius/blob/output/github-contribution-grid-snake.svg) -->
+ <div align="center">
+<br>
+<p align="centre">
+	<b> Visitors Count</b>
+</p>  
+<p align="center">
+	<img align="center" src="https://profile-counter.glitch.me/{Arthur-Vinicius}/count.svg"/>
+</p> 
+<br>
+</div>
+
+<!-- Parou de funcionar, TODO - pesquisar solição-->
+<!--
+![Snake animation](https://github.com/Arthur-Vinicius/Arthur-Vinicius/blob/output/github-contribution-grid-snake.svg) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> 
 
