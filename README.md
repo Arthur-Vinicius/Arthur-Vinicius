@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Vinicius&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Arthur-Vinicius&theme=gotham&hide_border=true&area=true)
+![Arthur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Vinicius&theme=tokyonight&area=true&hide_border=true)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arthur-Vinicius&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
