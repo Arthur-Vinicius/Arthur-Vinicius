@@ -36,7 +36,7 @@
 ![LINUX](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)&nbsp;
 
 ### 📈 Activity:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Vinicius&theme=onedark&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Vinicius&theme=tokyo-night)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arthur-Vinicius&color=00bfbf&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
