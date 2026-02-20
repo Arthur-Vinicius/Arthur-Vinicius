@@ -10,7 +10,7 @@
 ![Arthur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Vinicius&theme=tokyonight&area=true&hide_border=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arthur-Vinicius&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arthur-Vinicius&theme=onedark&column=7&margin-w=15&no-bg=true" alt="Arthur's Trophies" />
 </p>
 
 <div align="center">  
