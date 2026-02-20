@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Arthur+Vinicius;Computer+Engineering+Student;Based+in+Porto+Velho,+Brazil;Focusing+on+Python+and+Disruptive+Tech;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arthur-Vinicius&show_icons=true&theme=tokyonight&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arthur-Vinicius&show_icons=true&theme=tokyonight&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
   <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arthur-Vinicius&layout=compact&theme=tokyonight&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
