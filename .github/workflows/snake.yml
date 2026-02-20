@@ -1,16 +1,22 @@
 name: Generate Snake
 
 on:
-  schedule: # Executa a cada 24 horas
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Permite rodar manualmente
+  schedule:
+    - cron: "0 0 * * *" # Roda todo dia à meia-noite
+  workflow_dispatch: # Permite que você rode manualmente AGORA
+  push:
+    branches:
+    - main # Roda sempre que você fizer um push na main
+
+permissions:
+  contents: write # ESSA LINHA É A CHAVE DO SÊNIOR
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Atualizado para v4
 
       - name: Generate Snake
         uses: Platane/snk@v3
